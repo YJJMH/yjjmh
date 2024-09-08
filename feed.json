@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "yjjmh",
+    "description": "",
+    "home_page_url": "https://yjjmh.github.io/yjjmh",
+    "feed_url": "https://yjjmh.github.io/yjjmh/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "yjjmh"
+    },
+    "items": [
+        {
+            "id": "https://yjjmh.github.io/yjjmh/test.html",
+            "url": "https://yjjmh.github.io/yjjmh/test.html",
+            "title": "test",
+            "summary": "this is test",
+            "content_html": "<p>this is test</p>",
+            "author": {
+                "name": "yjjmh"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-09-08T22:03:48+08:00",
+            "date_modified": "2024-09-08T22:03:48+08:00"
+        }
+    ]
+}

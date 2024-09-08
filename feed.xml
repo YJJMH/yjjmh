@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>yjjmh</title>
+    <link href="https://yjjmh.github.io/yjjmh/feed.xml" rel="self" />
+    <link href="https://yjjmh.github.io/yjjmh" />
+    <updated>2024-09-08T22:03:48+08:00</updated>
+    <author>
+        <name>yjjmh</name>
+    </author>
+    <id>https://yjjmh.github.io/yjjmh</id>
+
+    <entry>
+        <title>test</title>
+        <author>
+            <name>yjjmh</name>
+        </author>
+        <link href="https://yjjmh.github.io/yjjmh/test.html"/>
+        <id>https://yjjmh.github.io/yjjmh/test.html</id>
+
+        <updated>2024-09-08T22:03:48+08:00</updated>
+            <summary>
+                <![CDATA[
+                    this is test
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>this is test</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://yjjmh.github.io/yjjmh/sitemap.xml
