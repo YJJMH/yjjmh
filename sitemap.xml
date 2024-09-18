@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://yjjmh.github.com/yjjmh.github.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://yjjmh.github.io/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://yjjmh.github.com/yjjmh.github.io/</loc>
+<loc>https://yjjmh.github.io/</loc>
 </url>
 <url>
-<loc>https://yjjmh.github.com/yjjmh.github.io/a-test/</loc>
+<loc>https://yjjmh.github.io/a-test/</loc>
 <lastmod>2024-09-17T23:35:40+08:00</lastmod>
 </url>
 <url>
-<loc>https://yjjmh.github.com/yjjmh.github.io/authors/yjjmh/</loc>
+<loc>https://yjjmh.github.io/authors/yjjmh/</loc>
 </url>
 <url>
-<loc>https://yjjmh.github.com/yjjmh.github.io/test/</loc>
+<loc>https://yjjmh.github.io/test/</loc>
 <lastmod>2024-09-17T23:33:44+08:00</lastmod>
 </url>
 </urlset>

@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "yjjmh&#x27;s blob",
     "description": "",
-    "home_page_url": "https://yjjmh.github.com/yjjmh.github.io",
-    "feed_url": "https://yjjmh.github.com/yjjmh.github.io/feed.json",
+    "home_page_url": "https://yjjmh.github.io",
+    "feed_url": "https://yjjmh.github.io/feed.json",
     "user_comment": "",
     "author": {
         "name": "yjjmh"
     },
     "items": [
         {
-            "id": "https://yjjmh.github.com/yjjmh.github.io/a-test/",
-            "url": "https://yjjmh.github.com/yjjmh.github.io/a-test/",
+            "id": "https://yjjmh.github.io/a-test/",
+            "url": "https://yjjmh.github.io/a-test/",
             "title": "a test",
             "summary": "this is a test an this is another test line",
             "author": {

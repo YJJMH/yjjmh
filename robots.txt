@@ -4,4 +4,4 @@ User-agent: GPTBot
 Disallow: /
 User-agent: *
 Disallow:
-Sitemap: https://yjjmh.github.com/yjjmh.github.io/sitemap.xml
+Sitemap: https://yjjmh.github.io/sitemap.xml

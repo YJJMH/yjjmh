@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>yjjmh&#x27;s blob</title>
-    <link href="https://yjjmh.github.com/yjjmh.github.io/feed.xml" rel="self" />
-    <link href="https://yjjmh.github.com/yjjmh.github.io" />
+    <link href="https://yjjmh.github.io/feed.xml" rel="self" />
+    <link href="https://yjjmh.github.io" />
     <updated>2024-09-17T23:35:40+08:00</updated>
     <author>
         <name>yjjmh</name>
     </author>
-    <id>https://yjjmh.github.com/yjjmh.github.io</id>
+    <id>https://yjjmh.github.io</id>
 
     <entry>
         <title>a test</title>
         <author>
             <name>yjjmh</name>
         </author>
-        <link href="https://yjjmh.github.com/yjjmh.github.io/a-test/"/>
-        <id>https://yjjmh.github.com/yjjmh.github.io/a-test/</id>
+        <link href="https://yjjmh.github.io/a-test/"/>
+        <id>https://yjjmh.github.io/a-test/</id>
 
         <updated>2024-09-17T23:35:40+08:00</updated>
             <summary>
